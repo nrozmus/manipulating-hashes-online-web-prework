@@ -1,4 +1,3 @@
- (18 sloc)  513 Bytes
 def first_challenge
   contacts = {
     "Jon Snow" => {
